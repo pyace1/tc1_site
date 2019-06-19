@@ -1,0 +1,70 @@
+body{
+	background-image:url("naslovna_siroka5.jpg");
+	background-position:center;
+
+}
+#mainWrapper
+{
+	width:1200px;
+	margin-left:auto;
+	margin-right:auto;
+	/*text-decoration:none;*/
+	
+}
+#header{
+	
+	border-radius:0px;
+	background-image: url("headerNav.jpg");
+	background-position: center;
+	height:300px;
+	padding:0px;
+}
+
+#nav{
+	text-align:bottom;
+	color="red";
+}
+#sidebar {
+	float:left;
+	width:15%;
+	background-color:#c7db78,;
+	
+}
+#mainContent0{
+	background-image: url(".jpg");  /* slika sal table*/
+	background-position: center;
+	text-align:center;
+
+}
+#mainContent{
+	background-image: url("");		/* nema slike*/
+	background-position: center;
+}
+#mainContent1{
+	background-image: url("linksback.jpg");
+	background-position: center;
+	text-align:right;
+}
+#mainContent2{
+	background-image: url("1974.jpg");
+	background-position: center;
+	
+}
+iframe {
+
+border: 15px solid maroon;
+
+border-radius: 50px;
+
+}
+#footer{
+	min-height:120px;
+	background-image: url("kopija-obradjena.jpg");
+	background-position: center;
+	color:#0bd3d4;
+	/*clear:both;*/
+	text-align:center;
+	/*text-decoration:none;*/
+	padding:40px;
+	
+}
